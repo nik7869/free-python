@@ -1,0 +1,6 @@
+download started at 10am
+s3:/global-1/test-1/p1.txt -- ec2:/home/nik/test-1 size:1mb
+s3:/global-1/test-2/p1.txt -- ec2:/home/nik/test-2 size:2mb
+total size of downloaded file are 3mb
+
+download is over at 10.05 am
